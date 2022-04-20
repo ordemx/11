@@ -431,7 +431,7 @@
   "gameinfo.opponentsturn": "Очікування поки {0} {1}",
   "gameinfo.start": "Початок Гри",
   "gameinfo.picktribe": "Вибір Трайбу",
-  "gameinfo.play": "походить",
+  "gameinfo.play": "ходити",
 
   "gamesaverbinary.unable.to.save": "Мені не вдалося зберегти гру, переконайтеся, що на вашому пристрої достатньо пам'яті",
   "gamesaverbinary.unable.to.save.title": "Не вдалося зберегти :(",
