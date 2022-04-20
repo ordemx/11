@@ -428,10 +428,10 @@
   "gameinfo.serverversion": "Версія сервера: {0}",
   "gameinfo.gameover": "Ігру завершено, відкрийте її, аби побачити результати",
   "gameinfo.yourturn": "Ваша черга {0}",
-  "gameinfo.opponentsturn": "Очікування поки {0} {1}",
+  "gameinfo.opponentsturn": "Очікування {1} {0}",
   "gameinfo.start": "Початок Гри",
   "gameinfo.picktribe": "Вибір Трайбу",
-  "gameinfo.play": "ходити",
+  "gameinfo.play": "ходу",
 
   "gamesaverbinary.unable.to.save": "Мені не вдалося зберегти гру, переконайтеся, що на вашому пристрої достатньо пам'яті",
   "gamesaverbinary.unable.to.save.title": "Не вдалося зберегти :(",
