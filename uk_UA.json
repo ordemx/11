@@ -1,7 +1,7 @@
 {
   "language": "Українська",
   "startmenu.new_game": "НОВА ГРА",
-  "startmenu.multiplayer": "МУЛЬТІПЛЕЄР",
+  "startmenu.multiplayer": "МУЛЬТИПЛЕЄР",
   "startmenu.resume_game": "ПРОДОВЖИТИ ГРУ",
   "startmenu.settings": "Налаштування",
   "startmenu.high_score": "Рекорди",
@@ -746,10 +746,10 @@
   "consent.disabled.info":"Щоб зберегти особисті дані, як-от рекорди та статистику, нам потрібен ваш дозвіл. Щоб дізнатися більше, прочитайте нашу <u><a href='{0}'>політику конфіденційності</a></u>.",
   "consent.revoke":"відкликати згоду",
 
-  "onlineview.title": "МУЛЬТІПЛЕЄР",
+  "onlineview.title": "МУЛЬТИПЛЕЄР",
   "onlineview.loadingservice": "Сервіс Завантаження",
   "onlineview.yourturn": "Ваш Хід",
-  "onlineview.theirturn": "Не Ваш Хід",
+  "onlineview.theirturn": "Очікування інших",
   "onlineview.reloading": "Оновлення..",
   "onlineview.reloading.release": "Відпустіть, щоб оновити...",
   "onlineview.newgame": "Нова Гра",
