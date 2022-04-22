@@ -837,7 +837,7 @@
   "friendlist.loading": "Завантаження друзів...",
   "friendlist.error": "Помилка завантаження друзів",
   "friendlist.friends": "Друзі",
-  "friendlist.friends.old": "Застарілі друзі",
+  "friendlist.friends.old": "Старі друзі",
   "friendlist.local": "Локальні Гравці",
   "friendlist.bots": "Боти",
   "friendlist.bot": "{0} Бот",
