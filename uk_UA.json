@@ -266,6 +266,7 @@
 	"friendlist.requestrecieved": "Отримано Запит на Дружбу",
 	"friendlist.requestsent.notification": "Запит відправлено!",
 	"friendlist.title": "СПИСОК ДРУЗІВ",
+	"friendlist.unfriend": "ВИДАЛИТИ ДРУГА",
 	"friendlist.uptodate": "Все актуально",
 	"gameinfo.gameover": "Ігру завершено, відкрийте її, аби побачити результати",
 	"gameinfo.gameversion": "Версій гри: {0}",
