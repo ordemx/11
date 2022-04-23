@@ -507,7 +507,7 @@
 	"onlineview.matchmaking": "ВИПАДКОВА ГРА",
   	"onlineview.newgame": "Почати Гру",
 	"onlineview.nogames.first": "Перше, що вам потрібно, це зв’язатися з іншими людьми, які грають в Polytopia. Торкніться 'Друзі', щоб додати їх.",
-	"onlineview.nogames.intro": "Привіт {0}!",
+	"onlineview.nogames.intro": "Привіт, {0}!",
 	"onlineview.nogames.start": "Давайте пограємо в онлайн-гру з друзями. Торкніться 'Почати Гру', щоб почати.",
 	"onlineview.notifications": "Увімкнути сповіщення",
 	"onlineview.notifications.info": "Ми використовуємо сповіщення, щоб повідомляти про статус ваших поточних багатокористувацьких ігор.",
