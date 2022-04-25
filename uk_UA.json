@@ -32,7 +32,7 @@
 	"actionbox.building.level": "рівень {0}/{1}",
 	"actionbox.building.requiredtech": "Для цього потрібно дослідити {0}. Торкніться кнопки \"Дерево Технологій\".",
 	"actionbox.building.techtree": "ТЕХНОЛОГІЇ",
-	"actionbox.city": "Місто з {0}",
+	"actionbox.city": "Місто {0}",
 	"actionbox.city.level": "рів. {0}",
 	"actionbox.confirm": "Підтвердити {0}",
 	"actionbox.confirm.button": "Так",
