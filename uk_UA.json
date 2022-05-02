@@ -545,6 +545,7 @@
 	"onlineview.reloading.release": "Відпустіть, щоб оновити...",
 	"onlineview.required": "необхідно",
 	"onlineview.resigned.title": "Оце так!",
+	"onlineview.resigned.info": "Гравець {0} визнав поразку в грі {1}",
 	"onlineview.resigned.view": "Гравець {0} визнав поразку і покинув гру",
 	"onlineview.servicedisabled": "Багатокористувацький сервер тимчасово вимкнено. Спробуйте пізніше. Також переконайтеся, що ви використовуєте останню версію Battle of Polytopia.",
 	"onlineview.theirturn": "Очікування",
