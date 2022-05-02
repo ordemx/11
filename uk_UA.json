@@ -43,6 +43,7 @@
 	"actionbox.unit.ability": "Здібність Юніта",
 	"actionbox.unit.Boosted": "Підсилено",
 	"actionbox.unit.frozen": "Заморожений {0}",
+	"actionbox.unit.Frozen": "Заморожений {0}",
 	"actionbox.unit.kills": "{0}/{1} убивств",
 	"actionbox.unit.new": "Тренувати {0} {1}",
 	"actionbox.unit.Poisoned": "Отруєний",
